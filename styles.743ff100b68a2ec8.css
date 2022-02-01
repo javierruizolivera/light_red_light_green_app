@@ -1,0 +1,1 @@
+:root{--primary: #87ceeb;--secondary: #003366;--text-01: #fff;--bg-01: #222222;--bg-02: #2a2a2a;--semantic-01: #96d66e;--semantic-02: #bd4e4e}html,body{font-family:Arial,Helvetica,sans-serif;height:100%;background-color:var(--bg-01);color:var(--text-01);margin:0;padding:0}
